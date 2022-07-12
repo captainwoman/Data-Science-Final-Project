@@ -10,7 +10,9 @@ To complete this project we performed 8 tasks:
 Understanding the problem, Data acquisition and cleaning, Exploratory analysis, Statistical modeling, Predictive modeling, Creative exploration, Creating a data product and Creating a short slide deck pitching.
 
 Rpubs : https://rpubs.com/captainwoman/923457
+
 Github: https://github.com/captainwoman/Data-Science-Final-Project.git
+
 Shiny App: https://captainwoman.shinyapps.io/DS_Final/
 
 The goal of the project is to build a predictive text model. The model will be implemented with a shiny app UI that will predict the next word as the user types a sentence.
